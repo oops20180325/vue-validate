@@ -8,7 +8,7 @@
 
 ##### demo
 
-![a](C:\Users\Administrator\Desktop\新建文件夹\a.gif)
+![a](.\a.gif)
 
 ```vue
 <template>
