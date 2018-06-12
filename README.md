@@ -8,7 +8,7 @@
 
 ##### demo
 
-![a](.\a.gif)
+![a](https://github.com/oops20180325/vue-validate/blob/master/a.gif)
 
 ```vue
 <template>
