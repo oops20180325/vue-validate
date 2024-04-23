@@ -10,7 +10,9 @@
 
 ##### demo
 
-![a](https://github.com/oops20180325/vue-validate/blob/master/a.gif)
+[点击访问demo](https://oops20180325.github.io/vue-validate/)
+
+![a](./a.gif)
 
 ```vue
 <template>
